@@ -1,0 +1,16 @@
+#mainToolbar {
+    position: fixed;
+    z-index: 2;
+}
+
+#system-title {
+    margin: auto;
+}
+
+#sidenavContainer {
+    flex: 1;
+}
+
+#sidenav ul {
+    padding-top: 64px;
+}
